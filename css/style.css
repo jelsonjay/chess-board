@@ -6,8 +6,12 @@
 
 body {
     font-family: sans-serif;
-    background: gray;
+    background-image: linear-gradient(rgb(238, 216, 21), rgb(189, 171, 8));
     min-height: 100vh;
+}
+
+li {
+    list-style: none;
 }
 
 #wrap {
@@ -65,8 +69,4 @@ body {
     justify-content: space-evenly;
     bottom: 0;
     text-align: center;
-}
-
-li {
-    list-style: none;
 }

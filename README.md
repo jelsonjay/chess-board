@@ -1,2 +1,3 @@
-# chess-board
- this is a simple stander chessboard project with 8x8
+# Chess-board
+
+### This is a simple chessboard project with HTML5, CSS & Vanilla JavaScript
