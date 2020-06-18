@@ -1,3 +1,3 @@
 # Chess-board
 
-### This is a simple chessboard project with HTML5, CSS & Vanilla JavaScript
+### This is a simple UI chessboard project with HTML5, CSS & Vanilla JavaScript
